@@ -1,3 +1,5 @@
 /*.json
 /*.json.gz
 /coverage.out
+.idea/
+.git/
